@@ -5,7 +5,7 @@
 A lightweight, security-focused phishing detection & awareness tool designed for cybersecurity learning and demonstrations.
 
 🌐 **Live Website:**  
-👉 https://phishguard-osa35x6kl-bhaviths-projects-9cf5e917.vercel.app/
+👉 https://phishguard-pink.vercel.app
 
 🎯 **Focus:** Detect • Analyze • Educate • Prevent  
 
